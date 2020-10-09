@@ -1,3 +1,7 @@
+# Inf
+Codes have been removed.
+
+
 # Bench-for-Vech
 
 People in big cities have problems to find the better places to park.People face problems related to adequate cash and change. Many times people are surprised with different prices of parking lots.The most private parking lots doesn’t accept credit card and mobile payments. Hence we are helping people to find vacant places to park their vehicles and various locations.
